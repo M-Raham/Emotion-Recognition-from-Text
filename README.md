@@ -1,6 +1,3 @@
-Absolutely! Here's a polished `README.md` for your **Emotion Recognition from Text** repo — with clean markdown styling, consistent emojis, headers, and formatting that matches your previous project style:
-
-```markdown
 # 💬 Emotion Recognition from Text
 
 ## 🧠 Overview
